@@ -5,4 +5,4 @@ w/
 
 
 * [Neural Networks and Deep Learning](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) (19/01/29 ~ 19/02/04)
-* [Improving Deep Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) (19/02/06 ~ )
+* [Improving Deep Neural Networks](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) (19/02/06 ~ 19/02/20)
